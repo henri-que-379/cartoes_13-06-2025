@@ -1,14 +1,15 @@
+
 criaCartao(
-'Programacao',
-'O que e JavaScript?',
-'JavaScript e uma linguagem de programacao.'
+'Programação',
+'O que é JavaScript?',
+'JavaScript é uma linguagem de programação.'
 );
 criaCartao(
 'Geografia',
-'Qual a capital da Franca?',
-'A capital da Franca e Paris.'
+'Qual a capital da França?',
+'A capital da França é Paris.'
 );
-criaCartao('Programacao',
-'O que e uma funcao?',
-'Uma funcao e um bloco de codigo que executa uma tarefa.'
-);
+criaCartao(
+'Matemática',
+'Quanto é 7 x 8?',
+'7 x 8 = 56.'
